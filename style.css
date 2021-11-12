@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+}
+
+label {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.containerIMC {
+    background-color: rgb(3, 3, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+}
+
+input {
+    display: block;
+    justify-content: column;
+    align-items: center;
+}
